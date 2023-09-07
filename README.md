@@ -1,4 +1,4 @@
-# grid-layout
+# cdm-grid-layout
 Layout of the site «Courses of 3D modeling»
 
 ## Сайт был сверстан в соответствии с установленными требованиями и имеет такие характеристики:
